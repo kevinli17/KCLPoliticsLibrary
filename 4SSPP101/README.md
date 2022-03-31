@@ -1,1 +1,3 @@
-Fundamentals of Politics Research
+Library for Fundamentals of Politics Research
+
+Total Readings:
