@@ -14,3 +14,5 @@ Year 1 (Level 4 Courses)
 - 4SSPP103 Comparing Political Systems
 - 4SSPP104 Introduction to Political Theory
 - 4SSPP111 Statistics for Political Science
+
+All Reading Material is labeled with the format: Author [Year]
